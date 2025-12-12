@@ -1,2 +1,0 @@
-# yetgimPowerBiTableu
-Yetgim PowerBi Eğitimi
